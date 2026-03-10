@@ -30,6 +30,7 @@
 ### ai
 
 - [Knowledge Graph Memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - <img src="./images/languages/typescript.svg" > A basic implementation of persistent memory using a local knowledge graph. This lets LLM remember information about the user across chats.
+- [Roundtable](https://github.com/deadpixel/roundtable-dashboard) - <img src="./images/languages/typescript.svg" > Multi-model AI debate platform — GPT-4o, Claude, Gemini & 200+ models discuss, then synthesize insight. Tools: consult, review_code, debug, architect, plan_implementation, assess_tradeoffs.
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - <img src="./images/languages/typescript.svg" > An MCP server implementation that provides a tool for dynamic and reflective problem-solving through a structured thinking process.
 
 ### analysis
